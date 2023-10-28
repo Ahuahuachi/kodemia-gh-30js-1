@@ -3,3 +3,5 @@
 First test of Github for Kodemia Gen 30 JS
 
 ## Mi primer commit
+
+## segundo commit david
